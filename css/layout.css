@@ -39,6 +39,10 @@
   width: 32.5%;
 }
 
+.shadow {
+  display: inline-block;
+}
+
 .col-1 {
   float: left;
   width: 32%;
