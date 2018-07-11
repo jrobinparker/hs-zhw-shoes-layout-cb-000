@@ -42,6 +42,7 @@
 
 #deals {
   display: inline-block;
+  margin-top: 5px;
 }
 
 .col-1 {
