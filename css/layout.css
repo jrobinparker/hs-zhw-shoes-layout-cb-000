@@ -26,8 +26,7 @@
 
 #featuredbrands {
   float: left;
-  width: 635px;
-  height: 590px;
+  width: 64%;
   margin-bottom: 15px;
 }
 
@@ -37,7 +36,7 @@
 
 #archivelist {
   float: right;
-  padding-right: 131px;
+  width: 32%;
 }
 
 .col-1 {
