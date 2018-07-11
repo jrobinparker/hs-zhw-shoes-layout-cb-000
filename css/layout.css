@@ -50,7 +50,11 @@
 
 .col-2 {
   width: 32%;
-  margin-right: 20;
+  margin-right: 20px;
+}
+
+.col-3 {
+  width: 32%;
 }
 
 .first {
